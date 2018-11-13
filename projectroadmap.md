@@ -4,3 +4,5 @@ T a s k    L i s t    f o r    P r o j e c t
 2. Install python 3.7, Xcode, and Pygame extension in order to run the "arcade" package included in the above codebase.
 3. Change image to use a new spaceship design.
 4. Change the background to a more simple and colorful design.
+5. Change the accuracy of the objects the spaceship shoots.
+6. Add some type of statement at the end letting the user know that the game is over and that
